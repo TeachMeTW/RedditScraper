@@ -1630,3 +1630,177 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:59353/devtools/browser/0556e886-c0f4-48ff-9f09-902f4c2c7681
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
 1670663149679	geckodriver	INFO	Listening on 127.0.0.1:59446
+1670703893620	geckodriver	INFO	Listening on 127.0.0.1:49164
+1670703896676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileQQU0LR"
+1670703896970	Marionette	INFO	Marionette enabled
+1670703896975	Marionette	INFO	Listening on port 49174
+Read port: 49174
+WebDriver BiDi listening on ws://127.0.0.1:49165
+1670703897053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileQQU0LR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49165/devtools/browser/4125e336-9523-4b14-b5c0-301fca90e05a
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670703907098	Marionette	INFO	Stopped listening on port 49174
+1670703910896	geckodriver	INFO	Listening on 127.0.0.1:49248
+1670703913943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofilezGLh1y"
+1670703914181	Marionette	INFO	Marionette enabled
+1670703914185	Marionette	INFO	Listening on port 49259
+WebDriver BiDi listening on ws://127.0.0.1:49249
+Read port: 49259
+1670703914359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofilezGLh1y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49249/devtools/browser/09141637-c763-424e-a2af-e02ada87c82b
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670704025143	geckodriver	INFO	Listening on 127.0.0.1:49364
+1670704028191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofiletWXpJY"
+1670704028433	Marionette	INFO	Marionette enabled
+1670704028437	Marionette	INFO	Listening on port 49375
+WebDriver BiDi listening on ws://127.0.0.1:49365
+Read port: 49375
+1670704028606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofiletWXpJY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49365/devtools/browser/f66d529a-2303-4a35-871f-af9d6edfcffe
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670704037763	Marionette	INFO	Stopped listening on port 49375
+1670704041466	geckodriver	INFO	Listening on 127.0.0.1:49451
+1670704044528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileDNaC8D"
+1670704044765	Marionette	INFO	Marionette enabled
+1670704044770	Marionette	INFO	Listening on port 49461
+WebDriver BiDi listening on ws://127.0.0.1:49452
+Read port: 49461
+1670704044935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileDNaC8D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49452/devtools/browser/bc323154-7ce7-4a0b-ba57-b11ea2109bfd
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670704060958	geckodriver	INFO	Listening on 127.0.0.1:49536
+1670704064008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileF99K8f"
+1670704064259	Marionette	INFO	Marionette enabled
+1670704064263	Marionette	INFO	Listening on port 49546
+WebDriver BiDi listening on ws://127.0.0.1:49537
+Read port: 49546
+1670704064435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileF99K8f\\search.json.mozlz4", (void 0)))
+1670705029907	geckodriver	INFO	Listening on 127.0.0.1:49660
+1670705032942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49661" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileaPXLEq"
+1670705033190	Marionette	INFO	Marionette enabled
+1670705033194	Marionette	INFO	Listening on port 49678
+WebDriver BiDi listening on ws://127.0.0.1:49661
+Read port: 49678
+1670705033368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileaPXLEq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49661/devtools/browser/134e1c56-339c-40dd-8ed2-9f1688be59de
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705042616	Marionette	INFO	Stopped listening on port 49678
+1670705046355	geckodriver	INFO	Listening on 127.0.0.1:49759
+1670705049393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofilezuMur2"
+1670705049661	Marionette	INFO	Marionette enabled
+1670705049665	Marionette	INFO	Listening on port 49769
+WebDriver BiDi listening on ws://127.0.0.1:49760
+Read port: 49769
+1670705049836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofilezuMur2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49760/devtools/browser/c4b13436-1323-4126-acab-283cd830d559
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705065997	geckodriver	INFO	Listening on 127.0.0.1:49833
+1670705069044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileoY0zFh"
+1670705069306	Marionette	INFO	Marionette enabled
+1670705069310	Marionette	INFO	Listening on port 49848
+WebDriver BiDi listening on ws://127.0.0.1:49834
+Read port: 49848
+1670705069484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileoY0zFh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49834/devtools/browser/7ddc210e-96ca-4c3b-ad5c-428f837e5571
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705378024	geckodriver	INFO	Listening on 127.0.0.1:49972
+1670705381067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileZ8mpI3"
+1670705381314	Marionette	INFO	Marionette enabled
+1670705381317	Marionette	INFO	Listening on port 49984
+WebDriver BiDi listening on ws://127.0.0.1:49973
+Read port: 49984
+1670705381495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileZ8mpI3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49973/devtools/browser/f9d85ac5-3bcb-4446-b15f-3172e6d9e79d
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705391654	Marionette	INFO	Stopped listening on port 49984
+1670705395438	geckodriver	INFO	Listening on 127.0.0.1:50057
+1670705398490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileiDdxfZ"
+1670705398728	Marionette	INFO	Marionette enabled
+1670705398732	Marionette	INFO	Listening on port 50067
+WebDriver BiDi listening on ws://127.0.0.1:50058
+Read port: 50067
+1670705398909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileiDdxfZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50058/devtools/browser/6b46d851-2edc-4328-8a37-9e3644625081
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705413186	geckodriver	INFO	Listening on 127.0.0.1:50132
+1670705416219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofilevWK0pM"
+1670705416463	Marionette	INFO	Marionette enabled
+1670705416468	Marionette	INFO	Listening on port 50142
+WebDriver BiDi listening on ws://127.0.0.1:50133
+Read port: 50142
+1670705416654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofilevWK0pM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50133/devtools/browser/4b92992e-1694-45e5-9c16-184bc935cd31
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705431307	geckodriver	INFO	Listening on 127.0.0.1:50211
+1670705434338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileaKa86f"
+1670705434588	Marionette	INFO	Marionette enabled
+1670705434593	Marionette	INFO	Listening on port 50250
+WebDriver BiDi listening on ws://127.0.0.1:50212
+Read port: 50250
+1670705434767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileaKa86f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50212/devtools/browser/351bb808-11f0-45c7-95e2-158de48d4055
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705448742	geckodriver	INFO	Listening on 127.0.0.1:50320
+1670705451781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofilebkBfNm"
+1670705452019	Marionette	INFO	Marionette enabled
+1670705452023	Marionette	INFO	Listening on port 50330
+WebDriver BiDi listening on ws://127.0.0.1:50321
+Read port: 50330
+1670705452192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofilebkBfNm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50321/devtools/browser/380d7fe7-b243-4dff-8486-73d96a476b99
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705634826	geckodriver	INFO	Listening on 127.0.0.1:50445
+1670705637864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileG3WYg6"
+1670705638108	Marionette	INFO	Marionette enabled
+1670705638113	Marionette	INFO	Listening on port 50456
+WebDriver BiDi listening on ws://127.0.0.1:50446
+Read port: 50456
+1670705638283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileG3WYg6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50446/devtools/browser/0515a7ef-0edf-4490-91e1-d24c41dcf287
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705647750	Marionette	INFO	Stopped listening on port 50456
+1670705651389	geckodriver	INFO	Listening on 127.0.0.1:50531
+1670705654414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofile7tCmIv"
+1670705654661	Marionette	INFO	Marionette enabled
+1670705654666	Marionette	INFO	Listening on port 50542
+WebDriver BiDi listening on ws://127.0.0.1:50532
+Read port: 50542
+1670705654836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofile7tCmIv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50532/devtools/browser/6da985fc-8c62-4d4d-9e64-0b7ca8b2605c
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705702107	geckodriver	INFO	Listening on 127.0.0.1:50622
+1670705705148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileAghUaw"
+1670705705392	Marionette	INFO	Marionette enabled
+1670705705395	Marionette	INFO	Listening on port 50632
+WebDriver BiDi listening on ws://127.0.0.1:50623
+Read port: 50632
+1670705705567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileAghUaw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50623/devtools/browser/11f9ee7a-6f0d-442b-8f1f-021fd2334f65
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement
+1670705714680	Marionette	INFO	Stopped listening on port 50632
+1670705718426	geckodriver	INFO	Listening on 127.0.0.1:50707
+1670705721460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileZdxdIq"
+1670705721700	Marionette	INFO	Marionette enabled
+1670705721704	Marionette	INFO	Listening on port 50718
+WebDriver BiDi listening on ws://127.0.0.1:50708
+Read port: 50718
+1670705721871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Robin\\AppData\\Local\\Temp\\rust_mozprofileZdxdIq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50708/devtools/browser/64c108f0-f8bc-4c7b-b191-5ad6effcd902
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.9f8d3f61ec2c057cd0e6.js, line 1: unreachable code after return statement

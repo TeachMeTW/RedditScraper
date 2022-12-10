@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.firefox import GeckoDriverManager
 import time
 import re
-  
+import pickle
   
 substr = '/r/AskReddit/comments/'
 
@@ -22,12 +22,19 @@ class RedditPost:
     def add_list(self, list):
         for x in list:
             self.comments.append(x)
+            
+    def printinfo(self):
+        for x in self.comments:
+            print(' by {} : {} || {} upvotes \n'.format(x.user, x.text, x.upvotes))
 
 class Comment:
     def __init__(self, text, upvotes, user):
         self.text = text
         self.upvotes = upvotes
         self.user = user
+
+
+
 
 def getWeekly():
       
@@ -60,6 +67,8 @@ def getWeekly():
         
     driver.close() # closing the webdriver
     return rList
+
+
 
 def getPostData(post):
 
@@ -99,15 +108,14 @@ def getPostData(post):
             commentList.append(redditComment)
     
     return commentList
-        #print(x.text, end='\n\n\n')
+
         
 def main():
     p = getWeekly()
-    for x in p:
-        x.add_list(getPostData(x))
-        print([y for y in x.comments])
-
+    with open('posts.json', 'wb') as file:
+        for x in p:
+            x.add_list(getPostData(x))
+            pickle.dump(x, file)
+    
     
 main()
-
-#span level 1 v
